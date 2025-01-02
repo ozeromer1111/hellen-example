@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\OZER\Documents\GitHub\hellen-example\stabil-daytona.kicad_sch</source>
-    <date>2025-01-02T16:50:53+0300</date>
+    <source>C:\Users\OZER\Documents\GitHub\hellen-example\stabildaytona.kicad_sch</source>
+    <date>2025-01-02T20:10:28+0300</date>
     <tool>Eeschema 8.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company>rusEFI.com</company>
         <rev>D</rev>
         <date>2024-08-15</date>
-        <source>stabil-daytona.kicad_sch</source>
+        <source>stabildaytona.kicad_sch</source>
         <comment number="1" value="https://rusefi.com/s/uaefi"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -178,8 +178,8 @@
         <field name="Description">Generic connector, single row, 01x04, script generated</field>
       </fields>
       <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -194,8 +194,8 @@
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-can-0.1" part="Module-can-0.1" description="Hellen-One CAN Module"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b3eba907-b90b-4063-b3b9-7115645d1bcd</tstamps>
     </comp>
@@ -210,8 +210,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5970989e-2d8b-4810-b633-644d402fcb9b</tstamps>
     </comp>
@@ -226,8 +226,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3d39eb8f-3df2-49f8-b422-d057dccd22ad</tstamps>
     </comp>
@@ -242,8 +242,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>14dd76f6-a548-4452-bc3d-75c7acd25f2a</tstamps>
     </comp>
@@ -258,8 +258,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
       <property name="LCSC" value="C182446"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4014f889-f7f7-4f3f-86fe-51a46b440971</tstamps>
     </comp>
@@ -272,8 +272,8 @@
         <field name="Description"/>
       </fields>
       <libsource lib="rusefi_logo" part="RUSEFI_LOGO" description=""/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5410bd99-793b-410c-843c-7fecab530dce</tstamps>
     </comp>
@@ -286,8 +286,8 @@
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-common" part="LOGO" description=""/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4347b078-82b3-42ff-9148-446a131054dd</tstamps>
     </comp>
@@ -300,8 +300,8 @@
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-power_12and5V" part="Module-power_12and5V-0.2" description="Hellen-One Power_12and5V Module"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fc171e8d-961b-4499-baee-dd5ea13a9968</tstamps>
     </comp>
@@ -314,8 +314,8 @@
         <field name="Description"/>
       </fields>
       <libsource lib="hellen-one-knock-0.2" part="Module-knock-0.2" description="Hellen-One Knock Pre-amplifier Module"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3b79a16e-5552-4c71-b880-ab92f2ee80d5</tstamps>
     </comp>
@@ -328,8 +328,8 @@
         <field name="Description"/>
       </fields>
       <libsource lib="vr-max9924" part="Module-vr-max9924-0.1" description=""/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bec98359-9828-419b-90e9-0695c7618ead</tstamps>
     </comp>
@@ -362,8 +362,8 @@
       <property name="SUPPLIER 3" value="LCSC"/>
       <property name="SUPPLIER PART NUMBER 3" value=""/>
       <property name="TYPE" value="Module"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <property name="ki_fp_filters" value="MOD_Hellen_MEGA_MCU100_0.1"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4a3a80c0-5ff2-431a-af30-5d326e11bdc6</tstamps>
@@ -379,8 +379,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C4216"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8b569d93-63d4-4e4a-ab29-7bba3479e73a</tstamps>
     </comp>
@@ -395,8 +395,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C23212"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5b9c6288-6168-464f-a68f-b95a6eb7f343</tstamps>
     </comp>
@@ -411,8 +411,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
       <property name="LCSC" value="C17477"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1b4123e5-2c6c-405d-b04f-fd27f68ef7bf</tstamps>
     </comp>
@@ -427,8 +427,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17414"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4846fda0-676e-472f-be2b-bc5c08fe31b6</tstamps>
     </comp>
@@ -443,8 +443,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C21189"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>55c70c59-b360-4ac6-84b8-034f63dee807</tstamps>
     </comp>
@@ -459,8 +459,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17414"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>49499a83-65d5-4574-84ee-caed228c2d6f</tstamps>
     </comp>
@@ -475,8 +475,8 @@
       </fields>
       <libsource lib="hellen-one-common" part="Res" description="Resistor"/>
       <property name="LCSC" value="C17414"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b6907d7c-0405-4e89-9e75-ed9b7f941c69</tstamps>
     </comp>
@@ -490,8 +490,8 @@
         <field name="Description">Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x20_Counter_Clockwise" description="Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -507,8 +507,8 @@
         <field name="Description">Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x20_Counter_Clockwise" description="Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -524,8 +524,8 @@
         <field name="Description">Generic connector, single row, 01x04, script generated</field>
       </fields>
       <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
-      <property name="Sheetname" value="Kök"/>
-      <property name="Sheetfile" value="stabil-daytona.kicad_sch"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
       <sheetpath names="/" tstamps="/"/>
