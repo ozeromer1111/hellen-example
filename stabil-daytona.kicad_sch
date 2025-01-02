@@ -13558,7 +13558,7 @@
 					(page "5")
 				)
 			)
-			(project "uaefi"
+			(project "stabil-daytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "2")
 				)
@@ -13716,7 +13716,7 @@
 			(uuid "c31d63b7-dfac-4dee-941c-20863ae90ab8")
 		)
 		(instances
-			(project "uaefi"
+			(project "stabil-daytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "10")
 				)
@@ -13764,7 +13764,7 @@
 			(uuid "afa108eb-aed6-4f01-9acf-b5d6b2952776")
 		)
 		(instances
-			(project "uaefi"
+			(project "stabil-daytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "8")
 				)
@@ -13922,7 +13922,7 @@
 			(uuid "6e1ec0ea-69b4-41fd-8960-1ee68b424c15")
 		)
 		(instances
-			(project "uaefi"
+			(project "stabil-daytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "9")
 				)
@@ -14040,7 +14040,7 @@
 			(uuid "f3f71926-ec51-4881-899c-4fea2165758f")
 		)
 		(instances
-			(project "uaefi"
+			(project "stabil-daytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "3")
 				)
@@ -14153,7 +14153,7 @@
 					(page "5")
 				)
 			)
-			(project "uaefi"
+			(project "stabil-daytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "4")
 				)
@@ -14231,7 +14231,7 @@
 			(uuid "93336658-9153-4501-bd26-d414f3f93e5d")
 		)
 		(instances
-			(project "uaefi"
+			(project "stabil-daytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "6")
 				)
@@ -14329,7 +14329,7 @@
 			(uuid "4add7dcf-cdcd-4573-980a-c0138deb9a00")
 		)
 		(instances
-			(project "uaefi"
+			(project "stabil-daytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "9")
 				)
