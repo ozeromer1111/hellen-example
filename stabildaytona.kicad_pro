@@ -457,7 +457,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "stabil-daytona.kicad_pro",
+    "filename": "stabildaytona.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -630,12 +630,12 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "hellen-one/tests/gerber/",
-      "pos_files": "",
+      "plot": "gerber/",
+      "pos_files": "gerber/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
-      "vrml": ""
+      "vrml": "stabil-daytona.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -829,7 +829,7 @@
   "sheets": [
     [
       "ac264c30-3e9a-4be2-b97a-9949b68bd497",
-      "Kök"
+      "Root"
     ],
     [
       "0c617583-4e3e-4059-8607-2ed650d520f4",
