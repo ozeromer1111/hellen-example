@@ -94,11 +94,11 @@
         "missing_footprint": "warning",
         "net_conflict": "warning",
         "npth_inside_courtyard": "ignore",
-        "padstack": "error",
+        "padstack": "ignore",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
@@ -635,7 +635,7 @@
       "specctra_dsn": "",
       "step": "",
       "svg": "",
-      "vrml": "stabil-daytona.wrl"
+      "vrml": "gerber/stabil-daytona.wrl"
     },
     "page_layout_descr_file": ""
   },

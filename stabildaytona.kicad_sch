@@ -2094,77 +2094,6 @@
 				)
 			)
 		)
-		(symbol "hellen-one-common:LOGO"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "G"
-				(at 0 -2.6162 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "LOGO"
-				(at 0 2.6162 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "hellen-one-common:LOGO"
-				(at 1.27 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at -12.7 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "LOGO_0_0"
-				(text ""
-					(at 35.56 6.35 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(text "Hellen-One-PCB-logo"
-					(at 0 0 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
 		(symbol "hellen-one-common:Res"
 			(pin_numbers hide)
 			(exclude_from_sim no)
@@ -5458,120 +5387,6 @@
 				)
 			)
 		)
-		(symbol "rusefi_logo:RUSEFI_LOGO"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "G"
-				(at 0 -2.6162 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "RUSEFI_LOGO"
-				(at 0 2.6162 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "kicad6-libraries:rusefi_logo"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RUSEFI_LOGO_0_0"
-				(polyline
-					(pts
-						(xy 3.3528 0.4064) (xy 3.3274 0.5334) (xy 3.2766 0.8636) (xy 3.2004 1.0922) (xy 3.1242 1.2192)
-						(xy 3.048 1.2192) (xy 3.0226 1.1938) (xy 2.8702 1.0922) (xy 2.8448 1.0668) (xy 2.7686 0.889) (xy 2.667 0.5588)
-						(xy 2.5654 0.0762) (xy 2.5146 -0.1778) (xy 2.4384 -0.5588) (xy 2.3876 -0.8128) (xy 2.3876 -0.9906)
-						(xy 2.3876 -1.0668) (xy 2.4384 -1.0922) (xy 2.4892 -1.0922) (xy 2.54 -1.1176) (xy 2.6162 -1.1938)
-						(xy 2.5654 -1.2192) (xy 2.3876 -1.2446) (xy 2.1082 -1.27) (xy 2.0066 -1.27) (xy 1.7526 -1.2446)
-						(xy 1.6256 -1.1938) (xy 1.6002 -1.143) (xy 1.7526 -1.0668) (xy 1.778 -1.0668) (xy 1.8542 -1.016)
-						(xy 1.905 -0.8636) (xy 1.9812 -0.6096) (xy 2.0574 -0.2032) (xy 2.1082 0.0254) (xy 2.159 0.381)
-						(xy 2.2098 0.6858) (xy 2.2606 0.8636) (xy 2.2606 0.9144) (xy 2.2606 1.0668) (xy 2.159 1.1176)
-						(xy 2.1082 1.1176) (xy 2.0828 1.2446) (xy 2.1336 1.2954) (xy 2.3114 1.3462) (xy 2.6416 1.3462)
-						(xy 3.1496 1.3462) (xy 2.9464 1.6764) (xy 2.8956 1.778) (xy 2.4638 2.286) (xy 1.9812 2.7432) (xy 1.7526 2.8956)
-						(xy 1.7526 1.3462) (xy 1.7018 1.0922) (xy 1.651 0.9144) (xy 1.5494 0.8382) (xy 1.4986 0.8636)
-						(xy 1.4986 0.9906) (xy 1.4986 1.016) (xy 1.4732 1.0668) (xy 1.3462 1.0922) (xy 1.0668 1.0922)
-						(xy 0.8636 1.0922) (xy 0.6604 1.0668) (xy 0.5588 1.0414) (xy 0.5334 0.9906) (xy 0.508 0.7874)
-						(xy 0.4572 0.5334) (xy 0.4064 0.0762) (xy 0.6858 0.0762) (xy 0.7112 0.1016) (xy 0.9398 0.127)
-						(xy 1.0668 0.1778) (xy 1.1684 0.254) (xy 1.2192 0.2032) (xy 1.1938 -0.0254) (xy 1.1684 -0.127)
-						(xy 1.0668 -0.2286) (xy 0.9652 -0.254) (xy 0.9398 -0.1778) (xy 0.9144 -0.127) (xy 0.762 -0.0762)
-						(xy 0.5842 -0.0762) (xy 0.4064 -0.127) (xy 0.3048 -0.2032) (xy 0.3048 -0.254) (xy 0.254 -0.4318)
-						(xy 0.2032 -0.7112) (xy 0.2032 -0.7366) (xy 0.1778 -0.9652) (xy 0.2032 -1.0668) (xy 0.2794 -1.0922)
-						(xy 0.3556 -1.1176) (xy 0.4318 -1.1938) (xy 0.3556 -1.2192) (xy 0.1778 -1.2446) (xy -0.0762 -1.27)
-						(xy -0.3302 -1.2446) (xy -0.508 -1.2192) (xy -0.5842 -1.1938) (xy -0.5842 -1.143) (xy -0.4572 -1.0922)
-						(xy -0.4064 -1.0922) (xy -0.3302 -1.0668) (xy -0.3302 -0.9652) (xy -0.2794 -0.7366) (xy -0.2032 -0.381)
-						(xy -0.127 0) (xy -0.0508 0.4572) (xy 0.0254 0.762) (xy 0.0508 0.9652) (xy 0.0762 1.0668) (xy 0.0508 1.0922)
-						(xy 0 1.1176) (xy -0.0508 1.0922) (xy -0.1016 1.1176) (xy -0.1778 1.2192) (xy -0.1524 1.27) (xy -0.0762 1.3208)
-						(xy 0.0762 1.3462) (xy 0.3556 1.3462) (xy 0.7874 1.3462) (xy 1.7526 1.3462) (xy 1.7526 2.8956)
-						(xy 1.4478 3.0734) (xy 1.3462 3.1242) (xy 1.1176 3.2258) (xy 0.9144 3.302) (xy 0.6858 3.3274)
-						(xy 0.381 3.3528) (xy -0.0508 3.3528) (xy -0.1016 3.3528) (xy -0.508 3.3528) (xy -0.5334 3.3528)
-						(xy -0.5334 1.3462) (xy -0.5842 1.0922) (xy -0.635 0.9144) (xy -0.7366 0.8382) (xy -0.7874 0.8636)
-						(xy -0.7874 0.9652) (xy -0.7874 1.016) (xy -0.8128 1.0668) (xy -0.9652 1.0922) (xy -1.2446 1.0922)
-						(xy -1.7526 1.1176) (xy -1.8288 0.635) (xy -1.9304 0.1778) (xy -1.6002 0.1778) (xy -1.524 0.1778)
-						(xy -1.3462 0.2032) (xy -1.27 0.254) (xy -1.27 0.3048) (xy -1.1684 0.3302) (xy -1.143 0.3302)
-						(xy -1.0668 0.2794) (xy -1.0922 0.0762) (xy -1.1684 -0.1016) (xy -1.2446 -0.2286) (xy -1.3208 -0.254)
-						(xy -1.3462 -0.1778) (xy -1.3716 -0.1524) (xy -1.4732 -0.1016) (xy -1.7018 -0.0762) (xy -2.032 -0.0762)
-						(xy -2.0828 -0.5588) (xy -2.1082 -0.7366) (xy -2.1082 -0.9652) (xy -2.0828 -1.0668) (xy -2.0574 -1.0922)
-						(xy -1.905 -1.0922) (xy -1.6764 -1.0668) (xy -1.4478 -1.016) (xy -1.27 -0.9398) (xy -1.1938 -0.889)
-						(xy -1.1684 -0.8128) (xy -1.0668 -0.762) (xy -0.9652 -0.8128) (xy -0.9398 -1.016) (xy -0.9398 -1.27)
-						(xy -1.9558 -1.27) (xy -2.286 -1.27) (xy -2.6416 -1.2446) (xy -2.8702 -1.2192) (xy -2.921 -1.1938)
-						(xy -2.8956 -1.143) (xy -2.7686 -1.0922) (xy -2.7432 -1.0922) (xy -2.667 -0.9398) (xy -2.5654 -0.6096)
-						(xy -2.4638 -0.1524) (xy -2.3876 0.2032) (xy -2.3368 0.5588) (xy -2.2606 0.8128) (xy -2.2352 0.9652)
-						(xy -2.2352 1.0414) (xy -2.3368 1.0922) (xy -2.3876 1.1176) (xy -2.4638 1.2192) (xy -2.4384 1.27)
-						(xy -2.3622 1.3208) (xy -2.2098 1.3462) (xy -1.9304 1.3462) (xy -1.4986 1.3462) (xy -0.5334 1.3462)
-						(xy -0.5334 3.3528) (xy -0.8128 3.3274) (xy -1.0414 3.2766) (xy -1.2446 3.2004) (xy -1.4732 3.0988)
-						(xy -1.8034 2.921) (xy -2.3114 2.4892) (xy -2.7686 2.0066) (xy -3.0988 1.4732) (xy -3.1242 1.4478)
-						(xy -3.2258 1.2192) (xy -3.302 1.016) (xy -3.3274 0.7874) (xy -3.3528 0.4826) (xy -3.3528 0.0508)
-						(xy -3.3528 0) (xy -3.3528 -0.4064) (xy -3.3274 -0.7112) (xy -3.2766 -0.9144) (xy -3.2258 -1.1176)
-						(xy -3.1242 -1.3462) (xy -2.8194 -1.8288) (xy -2.3368 -2.413) (xy -1.7272 -2.8702) (xy -1.0668 -3.1496)
-						(xy -0.9398 -3.2004) (xy -0.4826 -3.2766) (xy 0.127 -3.2766) (xy 0.6858 -3.2258) (xy 1.27 -3.0734)
-						(xy 1.8034 -2.794) (xy 2.3114 -2.3622) (xy 2.4638 -2.2098) (xy 2.8956 -1.651) (xy 3.2004 -0.9906)
-						(xy 3.3528 -0.3048) (xy 3.3528 0.4064) (xy 3.3528 0.4064)
-					)
-					(stroke
-						(width 0.0254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-		)
 		(symbol "vr-max9924:Module-vr-max9924-0.1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -6298,16 +6113,6 @@
 			(type default)
 		)
 		(uuid "7eae2920-d634-4089-af9c-8ba3da03f536")
-	)
-	(wire
-		(pts
-			(xy 91.44 389.89) (xy 105.41 389.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ef1d6ca-dc9b-4ab5-8c24-1edcd2a164b5")
 	)
 	(wire
 		(pts
@@ -8103,13 +7908,13 @@
 		(uuid "b94e816b-ae06-4e2f-9772-54d83e450c29")
 	)
 	(label "VR_MAX9924-"
-		(at 93.98 389.89 0)
+		(at 105.41 389.89 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "bc87d4ca-24ae-4857-aa7a-2eea35ea1998")
 	)
@@ -9601,70 +9406,6 @@
 		)
 	)
 	(symbol
-		(lib_id "hellen-one-common:LOGO")
-		(at 189.23 377.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4347b078-82b3-42ff-9148-446a131054dd")
-		(property "Reference" "G2"
-			(at 189.23 379.8062 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "LOGO"
-			(at 189.23 374.5738 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "hellen-one-common:LOGO"
-			(at 190.5 382.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 176.53 377.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 189.23 377.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "uaefi"
-				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
-					(reference "G2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 105.41 397.51 270)
 		(mirror x)
@@ -10367,35 +10108,34 @@
 		)
 	)
 	(symbol
-		(lib_id "rusefi_logo:RUSEFI_LOGO")
-		(at 181.61 382.27 0)
+		(lib_id "power:GNDA")
+		(at 48.26 90.17 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5410bd99-793b-410c-843c-7fecab530dce")
-		(property "Reference" "G1"
-			(at 181.61 384.8862 0)
+		(uuid "54a91668-d9fe-4d82-8880-9f4f7fc5cb76")
+		(property "Reference" "#PWR022"
+			(at 41.91 90.17 0)
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
 		)
-		(property "Value" "RUSEFI_LOGO"
-			(at 181.61 379.6538 0)
+		(property "Value" "GND"
+			(at 42.6656 90.0557 90)
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Footprint" "kicad6-libraries:rusefi_logo"
-			(at 181.61 382.27 0)
+		(property "Footprint" ""
+			(at 48.26 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10404,7 +10144,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 382.27 0)
+			(at 48.26 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10413,7 +10153,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 382.27 0)
+			(at 48.26 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10421,10 +10161,13 @@
 				(hide yes)
 			)
 		)
+		(pin "1"
+			(uuid "fe3e012c-f6ba-4fd9-91de-155d98e2f72f")
+		)
 		(instances
-			(project "uaefi"
+			(project "stabildaytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
-					(reference "G1")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -11011,6 +10754,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDA")
+		(at 48.26 95.25 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7459c852-7721-40a4-82a2-737d2e13ba77")
+		(property "Reference" "#PWR035"
+			(at 41.91 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 42.6656 95.1357 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f950cdf2-fb6b-43b6-9dca-4206064ede5c")
+		)
+		(instances
+			(project "stabildaytona"
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_02x20_Counter_Clockwise")
 		(at 53.34 135.89 0)
 		(unit 1)
@@ -11056,6 +10865,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 53.34 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C19630948"
 			(at 53.34 135.89 0)
 			(effects
 				(font
@@ -12176,6 +11994,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C19630948"
+			(at 53.34 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "17"
 			(uuid "be7628f1-4251-43ef-a1df-7f46d8648b87")
 		)
@@ -12588,6 +12415,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDA")
+		(at 60.96 92.71 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d1833419-d9bf-4565-ac21-be52c1d9aa54")
+		(property "Reference" "#PWR036"
+			(at 67.31 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 66.5544 92.8243 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8907890-30ba-44f9-bd7c-2c23a9f7533b")
+		)
+		(instances
+			(project "stabildaytona"
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 194.31 340.36 0)
 		(unit 1)
@@ -12986,6 +12879,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22438154"
+			(at 240.03 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "56745937-6bfb-4108-8ac6-f7334c9b8a60")
 		)
@@ -13054,6 +12956,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 266.7 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C265289"
 			(at 266.7 339.09 0)
 			(effects
 				(font
@@ -13558,7 +13469,7 @@
 					(page "5")
 				)
 			)
-			(project "stabil-daytona"
+			(project "stabildaytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "2")
 				)
@@ -13716,7 +13627,7 @@
 			(uuid "c31d63b7-dfac-4dee-941c-20863ae90ab8")
 		)
 		(instances
-			(project "stabil-daytona"
+			(project "stabildaytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "10")
 				)
@@ -13764,7 +13675,7 @@
 			(uuid "afa108eb-aed6-4f01-9acf-b5d6b2952776")
 		)
 		(instances
-			(project "stabil-daytona"
+			(project "stabildaytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "8")
 				)
@@ -13922,7 +13833,7 @@
 			(uuid "6e1ec0ea-69b4-41fd-8960-1ee68b424c15")
 		)
 		(instances
-			(project "stabil-daytona"
+			(project "stabildaytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "9")
 				)
@@ -14040,7 +13951,7 @@
 			(uuid "f3f71926-ec51-4881-899c-4fea2165758f")
 		)
 		(instances
-			(project "stabil-daytona"
+			(project "stabildaytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "3")
 				)
@@ -14153,7 +14064,7 @@
 					(page "5")
 				)
 			)
-			(project "stabil-daytona"
+			(project "stabildaytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "4")
 				)
@@ -14231,7 +14142,7 @@
 			(uuid "93336658-9153-4501-bd26-d414f3f93e5d")
 		)
 		(instances
-			(project "stabil-daytona"
+			(project "stabildaytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "6")
 				)
@@ -14329,7 +14240,7 @@
 			(uuid "4add7dcf-cdcd-4573-980a-c0138deb9a00")
 		)
 		(instances
-			(project "stabil-daytona"
+			(project "stabildaytona"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497"
 					(page "9")
 				)

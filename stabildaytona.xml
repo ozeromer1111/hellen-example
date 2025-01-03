@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\OZER\Documents\GitHub\hellen-example\stabildaytona.kicad_sch</source>
-    <date>2025-01-02T20:19:03+0300</date>
+    <date>2025-01-03T18:22:35+0300</date>
     <tool>Eeschema 8.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -173,11 +173,13 @@
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical</footprint>
       <description>Generic connector, single row, 01x04, script generated</description>
       <fields>
+        <field name="LCSC">C22438154</field>
         <field name="Footprint">Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x04, script generated</field>
       </fields>
       <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="LCSC" value="C22438154"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -262,34 +264,6 @@
       <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4014f889-f7f7-4f3f-86fe-51a46b440971</tstamps>
-    </comp>
-    <comp ref="G1">
-      <value>RUSEFI_LOGO</value>
-      <footprint>kicad6-libraries:rusefi_logo</footprint>
-      <fields>
-        <field name="Footprint">kicad6-libraries:rusefi_logo</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="rusefi_logo" part="RUSEFI_LOGO" description=""/>
-      <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>5410bd99-793b-410c-843c-7fecab530dce</tstamps>
-    </comp>
-    <comp ref="G2">
-      <value>LOGO</value>
-      <footprint>hellen-one-common:LOGO</footprint>
-      <fields>
-        <field name="Footprint">hellen-one-common:LOGO</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-      <libsource lib="hellen-one-common" part="LOGO" description=""/>
-      <property name="Sheetname" value="Root"/>
-      <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>4347b078-82b3-42ff-9148-446a131054dd</tstamps>
     </comp>
     <comp ref="M1">
       <value>Module-power_12and5V-0.2</value>
@@ -485,11 +459,13 @@
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</footprint>
       <description>Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <fields>
+        <field name="LCSC">C19630948</field>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x20_Counter_Clockwise" description="Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C19630948"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -502,11 +478,13 @@
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</footprint>
       <description>Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <fields>
+        <field name="LCSC">C19630948</field>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x20_Counter_Clockwise" description="Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC" value="C19630948"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -519,11 +497,13 @@
       <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
       <description>Generic connector, single row, 01x04, script generated</description>
       <fields>
+        <field name="LCSC">C265289</field>
         <field name="Footprint">Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description">Generic connector, single row, 01x04, script generated</field>
       </fields>
       <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="LCSC" value="C265289"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="stabildaytona.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -2035,15 +2015,6 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="hellen-one-common" part="LOGO">
-      <fields>
-        <field name="Reference">G</field>
-        <field name="Value">LOGO</field>
-        <field name="Footprint">hellen-one-common:LOGO</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-    </libpart>
     <libpart lib="hellen-one-common" part="MPX4_MAP">
       <fields>
         <field name="Reference">U4</field>
@@ -2229,15 +2200,6 @@
         <pin num="V4" name="5VP" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="rusefi_logo" part="RUSEFI_LOGO">
-      <fields>
-        <field name="Reference">G</field>
-        <field name="Value">RUSEFI_LOGO</field>
-        <field name="Footprint">kicad6-libraries:rusefi_logo</field>
-        <field name="Datasheet"/>
-        <field name="Description"/>
-      </fields>
-    </libpart>
     <libpart lib="vr-max9924" part="Module-vr-max9924-0.1">
       <fields>
         <field name="Reference">M</field>
@@ -2287,9 +2249,6 @@
     </library>
     <library logical="hellen-one-power_12and5V">
       <uri>C:\Users\OZER\Documents\GitHub\hellen-example/hellen-one/modules/power_12and5V/0.2/power_12and5V.kicad_sym</uri>
-    </library>
-    <library logical="rusefi_logo">
-      <uri>C:\Users\OZER\Documents\GitHub\hellen-example/kicad6-libraries/rusefi_logo.kicad_sym</uri>
     </library>
     <library logical="vr-max9924">
       <uri>C:\Users\OZER\Documents\GitHub\hellen-example/hellen-one/modules/vr-max9924/0.1/vr-max9924.kicad_sym</uri>
@@ -2833,6 +2792,9 @@
       <node ref="R32" pin="1" pintype="passive"/>
       <node ref="R33" pin="1" pintype="passive"/>
       <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="SAGSOKET1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="SAGSOKET1" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="SAGSOKET1" pin="22" pinfunction="Pin_22" pintype="passive"/>
       <node ref="SOLSOKET1" pin="10" pinfunction="Pin_10" pintype="passive"/>
       <node ref="SOLSOKET1" pin="12" pinfunction="Pin_12" pintype="passive"/>
       <node ref="U1" pin="10" pinfunction="SCK" pintype="passive"/>
@@ -2988,109 +2950,100 @@
     <net code="141" name="unconnected-(SAGSOKET1-Pin_17-Pad17)">
       <node ref="SAGSOKET1" pin="17" pinfunction="Pin_17" pintype="passive"/>
     </net>
-    <net code="142" name="unconnected-(SAGSOKET1-Pin_18-Pad18)">
-      <node ref="SAGSOKET1" pin="18" pinfunction="Pin_18" pintype="passive"/>
-    </net>
-    <net code="143" name="unconnected-(SAGSOKET1-Pin_19-Pad19)">
+    <net code="142" name="unconnected-(SAGSOKET1-Pin_19-Pad19)">
       <node ref="SAGSOKET1" pin="19" pinfunction="Pin_19" pintype="passive"/>
     </net>
-    <net code="144" name="unconnected-(SAGSOKET1-Pin_20-Pad20)">
-      <node ref="SAGSOKET1" pin="20" pinfunction="Pin_20" pintype="passive"/>
-    </net>
-    <net code="145" name="unconnected-(SAGSOKET1-Pin_21-Pad21)">
+    <net code="143" name="unconnected-(SAGSOKET1-Pin_21-Pad21)">
       <node ref="SAGSOKET1" pin="21" pinfunction="Pin_21" pintype="passive"/>
     </net>
-    <net code="146" name="unconnected-(SAGSOKET1-Pin_22-Pad22)">
-      <node ref="SAGSOKET1" pin="22" pinfunction="Pin_22" pintype="passive"/>
-    </net>
-    <net code="147" name="unconnected-(SAGSOKET1-Pin_23-Pad23)">
+    <net code="144" name="unconnected-(SAGSOKET1-Pin_23-Pad23)">
       <node ref="SAGSOKET1" pin="23" pinfunction="Pin_23" pintype="passive"/>
     </net>
-    <net code="148" name="unconnected-(SAGSOKET1-Pin_25-Pad25)">
+    <net code="145" name="unconnected-(SAGSOKET1-Pin_25-Pad25)">
       <node ref="SAGSOKET1" pin="25" pinfunction="Pin_25" pintype="passive"/>
     </net>
-    <net code="149" name="unconnected-(SAGSOKET1-Pin_27-Pad27)">
+    <net code="146" name="unconnected-(SAGSOKET1-Pin_27-Pad27)">
       <node ref="SAGSOKET1" pin="27" pinfunction="Pin_27" pintype="passive"/>
     </net>
-    <net code="150" name="unconnected-(SAGSOKET1-Pin_29-Pad29)">
+    <net code="147" name="unconnected-(SAGSOKET1-Pin_29-Pad29)">
       <node ref="SAGSOKET1" pin="29" pinfunction="Pin_29" pintype="passive"/>
     </net>
-    <net code="151" name="unconnected-(SAGSOKET1-Pin_31-Pad31)">
+    <net code="148" name="unconnected-(SAGSOKET1-Pin_31-Pad31)">
       <node ref="SAGSOKET1" pin="31" pinfunction="Pin_31" pintype="passive"/>
     </net>
-    <net code="152" name="unconnected-(SAGSOKET1-Pin_32-Pad32)">
+    <net code="149" name="unconnected-(SAGSOKET1-Pin_32-Pad32)">
       <node ref="SAGSOKET1" pin="32" pinfunction="Pin_32" pintype="passive"/>
     </net>
-    <net code="153" name="unconnected-(SAGSOKET1-Pin_33-Pad33)">
+    <net code="150" name="unconnected-(SAGSOKET1-Pin_33-Pad33)">
       <node ref="SAGSOKET1" pin="33" pinfunction="Pin_33" pintype="passive"/>
     </net>
-    <net code="154" name="unconnected-(SAGSOKET1-Pin_34-Pad34)">
+    <net code="151" name="unconnected-(SAGSOKET1-Pin_34-Pad34)">
       <node ref="SAGSOKET1" pin="34" pinfunction="Pin_34" pintype="passive"/>
     </net>
-    <net code="155" name="unconnected-(SAGSOKET1-Pin_35-Pad35)">
+    <net code="152" name="unconnected-(SAGSOKET1-Pin_35-Pad35)">
       <node ref="SAGSOKET1" pin="35" pinfunction="Pin_35" pintype="passive"/>
     </net>
-    <net code="156" name="unconnected-(SAGSOKET1-Pin_36-Pad36)">
+    <net code="153" name="unconnected-(SAGSOKET1-Pin_36-Pad36)">
       <node ref="SAGSOKET1" pin="36" pinfunction="Pin_36" pintype="passive"/>
     </net>
-    <net code="157" name="unconnected-(SAGSOKET1-Pin_37-Pad37)">
+    <net code="154" name="unconnected-(SAGSOKET1-Pin_37-Pad37)">
       <node ref="SAGSOKET1" pin="37" pinfunction="Pin_37" pintype="passive"/>
     </net>
-    <net code="158" name="unconnected-(SAGSOKET1-Pin_39-Pad39)">
+    <net code="155" name="unconnected-(SAGSOKET1-Pin_39-Pad39)">
       <node ref="SAGSOKET1" pin="39" pinfunction="Pin_39" pintype="passive"/>
     </net>
-    <net code="159" name="unconnected-(SOLSOKET1-Pin_37-Pad37)">
+    <net code="156" name="unconnected-(SOLSOKET1-Pin_37-Pad37)">
       <node ref="SOLSOKET1" pin="37" pinfunction="Pin_37" pintype="passive"/>
     </net>
-    <net code="160" name="unconnected-(SOLSOKET1-Pin_38-Pad38)">
+    <net code="157" name="unconnected-(SOLSOKET1-Pin_38-Pad38)">
       <node ref="SOLSOKET1" pin="38" pinfunction="Pin_38" pintype="passive"/>
     </net>
-    <net code="161" name="unconnected-(SOLSOKET1-Pin_39-Pad39)">
+    <net code="158" name="unconnected-(SOLSOKET1-Pin_39-Pad39)">
       <node ref="SOLSOKET1" pin="39" pinfunction="Pin_39" pintype="passive"/>
     </net>
-    <net code="162" name="unconnected-(SOLSOKET1-Pin_40-Pad40)">
+    <net code="159" name="unconnected-(SOLSOKET1-Pin_40-Pad40)">
       <node ref="SOLSOKET1" pin="40" pinfunction="Pin_40" pintype="passive"/>
     </net>
-    <net code="163" name="unconnected-(U1-SO-Pad3)">
+    <net code="160" name="unconnected-(U1-SO-Pad3)">
       <node ref="U1" pin="3" pinfunction="SO" pintype="passive+no_connect"/>
     </net>
-    <net code="164" name="unconnected-(U2-SO-Pad3)">
+    <net code="161" name="unconnected-(U2-SO-Pad3)">
       <node ref="U2" pin="3" pinfunction="SO" pintype="passive+no_connect"/>
     </net>
-    <net code="165" name="unconnected-(U6-STATUS1-Pad2)">
+    <net code="162" name="unconnected-(U6-STATUS1-Pad2)">
       <node ref="U6" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="166" name="unconnected-(U6-STATUS2-Pad4)">
+    <net code="163" name="unconnected-(U6-STATUS2-Pad4)">
       <node ref="U6" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="167" name="unconnected-(U7-STATUS1-Pad2)">
+    <net code="164" name="unconnected-(U7-STATUS1-Pad2)">
       <node ref="U7" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="168" name="unconnected-(U7-STATUS2-Pad4)">
+    <net code="165" name="unconnected-(U7-STATUS2-Pad4)">
       <node ref="U7" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="169" name="unconnected-(U8-STATUS1-Pad2)">
+    <net code="166" name="unconnected-(U8-STATUS1-Pad2)">
       <node ref="U8" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="170" name="unconnected-(U8-STATUS2-Pad4)">
+    <net code="167" name="unconnected-(U8-STATUS2-Pad4)">
       <node ref="U8" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="171" name="unconnected-(U9-STATUS1-Pad2)">
+    <net code="168" name="unconnected-(U9-STATUS1-Pad2)">
       <node ref="U9" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="172" name="unconnected-(U9-STATUS2-Pad4)">
+    <net code="169" name="unconnected-(U9-STATUS2-Pad4)">
       <node ref="U9" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="173" name="unconnected-(U10-STATUS1-Pad2)">
+    <net code="170" name="unconnected-(U10-STATUS1-Pad2)">
       <node ref="U10" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="174" name="unconnected-(U10-STATUS2-Pad4)">
+    <net code="171" name="unconnected-(U10-STATUS2-Pad4)">
       <node ref="U10" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="175" name="unconnected-(U11-STATUS1-Pad2)">
+    <net code="172" name="unconnected-(U11-STATUS1-Pad2)">
       <node ref="U11" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="176" name="unconnected-(U11-STATUS2-Pad4)">
+    <net code="173" name="unconnected-(U11-STATUS2-Pad4)">
       <node ref="U11" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
   </nets>
