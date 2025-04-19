@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.2
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -580,8 +580,8 @@
         "pattern": "/VR??"
       },
       {
-        "netclass": "05MM",
-        "pattern": "/*INJ*"
+        "netclass": "1mm",
+        "pattern": "/ENJEKTÖR *"
       },
       {
         "netclass": "08mm",
@@ -622,6 +622,10 @@
       {
         "netclass": "05MM",
         "pattern": "/VBUS"
+      },
+      {
+        "netclass": "1mm",
+        "pattern": "/ÇIKIŞ *"
       }
     ]
   },
@@ -832,20 +836,16 @@
       "Root"
     ],
     [
-      "0c617583-4e3e-4059-8607-2ed650d520f4",
-      "DC Driver 1"
+      "eaaf5216-1f1d-4979-a2cc-7a4c348e8094",
+      "AUX GROUP 2"
     ],
     [
-      "aa4a40ff-b05c-4d24-92a7-fdeac4807f5c",
-      "LS"
-    ],
-    [
-      "b2716558-3a44-4e63-a5d7-5409c167071f",
-      "DC Driver 2"
+      "48c489a8-99d9-428c-87a8-b1eeb5836df2",
+      "AUX GROUP 3"
     ],
     [
       "c1e0fc38-44a5-4f4c-8a40-7ced112340c0",
-      "LS HOT"
+      "AUX GROUP 1"
     ],
     [
       "7f618b1f-fe11-49db-a473-d0b521b1fa4f",
@@ -853,15 +853,11 @@
     ],
     [
       "92c4206f-a69e-4d4d-9308-206d3518e11e",
-      "Ignition"
-    ],
-    [
-      "ced20183-e5c8-42b4-80bd-35fc70d9313a",
-      "EGT"
+      "BOBIN"
     ],
     [
       "45207479-6ae5-486c-ab42-805dda4ce511",
-      "Injector"
+      "ENJEKTOR"
     ]
   ],
   "text_variables": {}

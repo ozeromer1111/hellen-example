@@ -679,7 +679,7 @@
 				)
 			)
 		)
-		(property "Value" "MPXH6400A"
+		(property "Value" "GZP6869D200KPP"
 			(at 123.19 54.61 0)
 			(effects
 				(font
@@ -696,7 +696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "Sencoch Semiconductor"
 			(at 119.38 64.77 0)
 			(effects
 				(font
@@ -705,7 +705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0Kpa~200Kpa I2C SOP-8 Pressure Sensors ROHS"
 			(at 119.38 64.77 0)
 			(effects
 				(font
@@ -714,7 +714,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C511770"
+		(property "LCSC" "C3038053"
 			(at 119.38 64.77 0)
 			(effects
 				(font
@@ -1057,7 +1057,7 @@
 			)
 			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/7f618b1f-fe11-49db-a473-d0b521b1fa4f"
-					(reference "C27")
+					(reference "C1")
 					(unit 1)
 				)
 			)

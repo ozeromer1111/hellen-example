@@ -1,5 +1,33 @@
 # removal example: R66006 would be removed from BOM
 #R66006,
+R205,
+R206,
+R203,
+R204,
+R223,
+R224,
+R221,
+R226,
+R228,
+R229,
+R230,
+R231,
+R246,
+R247,
+R248,
+R249,
+R253,
+R136,
+R137,
+R138,
+R139,
+U106,
+S100,
+S101,
+J100,
+U107,
+R145,
+
 
 # replacement example - replace specific fuse part number
 #F42333310,"nSMD050-24V","SMD1206","C70076"

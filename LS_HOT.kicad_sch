@@ -612,7 +612,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "06023e7b-8b74-4e7b-b5a7-72678493c553")
-		(property "Reference" "#PWR0140"
+		(property "Reference" "#PWR024"
 			(at 129.54 102.87 0)
 			(effects
 				(font
@@ -657,12 +657,20 @@
 			)
 		)
 		(pin "1"
-			(uuid "79d49dca-da84-4779-b7fd-47a71d85bfbd")
+			(uuid "c5f19ce9-be97-4889-9d93-c147d4893140")
 		)
 		(instances
-			(project "uaefi"
+			(project "stabildaytona"
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/48c489a8-99d9-428c-87a8-b1eeb5836df2"
+					(reference "#PWR024")
+					(unit 1)
+				)
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
-					(reference "#PWR0140")
+					(reference "#PWR0101")
+					(unit 1)
+				)
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/eaaf5216-1f1d-4979-a2cc-7a4c348e8094"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -679,7 +687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4be98d8b-8e41-425e-b67f-7cdd0edf380d")
-		(property "Reference" "U6"
+		(property "Reference" "U3"
 			(at 146.05 78.74 0)
 			(effects
 				(font
@@ -732,33 +740,41 @@
 			)
 		)
 		(pin "1"
-			(uuid "de0da787-1fc5-4796-acf4-2f2cfb0b666d")
+			(uuid "1f6bd5a4-02f1-4c08-b827-64db9800417f")
 		)
 		(pin "2"
-			(uuid "f9aa0604-47f0-4ff2-8639-3a217ac00ade")
+			(uuid "4a4b69d9-9202-4a03-ae01-dba73e5b933b")
 		)
 		(pin "3"
-			(uuid "66eb6109-68fc-4b3a-801d-251da9bbe05e")
+			(uuid "055b1554-bd3f-44e3-a560-fcc02ed5f0f5")
 		)
 		(pin "4"
-			(uuid "c395b2fa-15c2-4d12-8743-0a3a34154b6b")
+			(uuid "74f71c6a-abf3-48d6-bfce-c7959ba8e986")
 		)
 		(pin "5"
-			(uuid "d448ebef-98dd-41e0-ac6e-92dc9c9b925e")
+			(uuid "e81db6ea-54bb-4dad-b470-97ef7298f6bd")
 		)
 		(pin "6"
-			(uuid "44861c2f-ef03-42ad-bcc2-b6ae7c7b7767")
+			(uuid "71f92a52-4c83-43e0-a5d7-ace053c4bf4b")
 		)
 		(pin "7"
-			(uuid "4042234d-c11f-479e-9dad-96f64ea6a675")
+			(uuid "ec971cd1-b285-4524-bef5-d39192504d5b")
 		)
 		(pin "8"
-			(uuid "c297b426-df00-4c14-ba80-15a09327a32c")
+			(uuid "b30f72f3-5375-4483-a262-8533711b243e")
 		)
 		(instances
-			(project "uaefi"
+			(project "stabildaytona"
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/48c489a8-99d9-428c-87a8-b1eeb5836df2"
+					(reference "U3")
+					(unit 1)
+				)
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
-					(reference "U6")
+					(reference "U1")
+					(unit 1)
+				)
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/eaaf5216-1f1d-4979-a2cc-7a4c348e8094"
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -773,7 +789,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59e85ecf-6ed3-4c4f-9b1b-274bc3e63fe4")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR027"
 			(at 180.34 102.87 0)
 			(effects
 				(font
@@ -818,22 +834,20 @@
 			)
 		)
 		(pin "1"
-			(uuid "59f8cf07-8c3d-4a37-9152-521d32d2993f")
+			(uuid "a9adc472-2dca-47fa-9d85-e5a5b837f118")
 		)
 		(instances
-			(project "alphax_8ch"
-				(path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
-					(reference "#PWR035")
+			(project "stabildaytona"
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/48c489a8-99d9-428c-87a8-b1eeb5836df2"
+					(reference "#PWR027")
 					(unit 1)
 				)
-				(path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9f286606-17ad-4292-b95a-d7d4de96430a"
-					(reference "#PWR0165")
-					(unit 1)
-				)
-			)
-			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
-					(reference "#PWR094")
+					(reference "#PWR0103")
+					(unit 1)
+				)
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/eaaf5216-1f1d-4979-a2cc-7a4c348e8094"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -848,7 +862,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "752d18a1-a5b4-49af-b8a2-7a145810591f")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR025"
 			(at 168.91 107.95 0)
 			(effects
 				(font
@@ -893,22 +907,20 @@
 			)
 		)
 		(pin "1"
-			(uuid "81658e4f-c905-4772-a9ef-be6d62c05aa0")
+			(uuid "cf445fc2-f45e-483b-a86e-e3557f11f959")
 		)
 		(instances
-			(project "alphax_8ch"
-				(path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
-					(reference "#PWR035")
+			(project "stabildaytona"
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/48c489a8-99d9-428c-87a8-b1eeb5836df2"
+					(reference "#PWR025")
 					(unit 1)
 				)
-				(path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9f286606-17ad-4292-b95a-d7d4de96430a"
-					(reference "#PWR0165")
-					(unit 1)
-				)
-			)
-			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
-					(reference "#PWR095")
+					(reference "#PWR0102")
+					(unit 1)
+				)
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/eaaf5216-1f1d-4979-a2cc-7a4c348e8094"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -924,7 +936,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "94472053-6dde-4e9a-9a4a-1dcfa880e1a8")
-		(property "Reference" "R30"
+		(property "Reference" "R5"
 			(at 177.8 91.44 0)
 			(effects
 				(font
@@ -977,25 +989,23 @@
 			)
 		)
 		(pin "1"
-			(uuid "557fc16b-856a-42aa-8314-27dfc66bd19a")
+			(uuid "bead5549-f5aa-413b-95d6-466e1ef8e1ac")
 		)
 		(pin "2"
-			(uuid "3b1c8ec1-c038-46f6-bfcd-2e20459d81b9")
+			(uuid "f982327d-5196-41f5-8ddd-c82b6bf5fe04")
 		)
 		(instances
-			(project "alphax_8ch"
-				(path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
-					(reference "R30")
+			(project "stabildaytona"
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/48c489a8-99d9-428c-87a8-b1eeb5836df2"
+					(reference "R5")
 					(unit 1)
 				)
-				(path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9f286606-17ad-4292-b95a-d7d4de96430a"
-					(reference "R68")
-					(unit 1)
-				)
-			)
-			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
-					(reference "R15")
+					(reference "R1")
+					(unit 1)
+				)
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/eaaf5216-1f1d-4979-a2cc-7a4c348e8094"
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -1011,7 +1021,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a284569b-b861-48e2-88ac-fb31172ac17f")
-		(property "Reference" "R30"
+		(property "Reference" "R6"
 			(at 166.37 96.52 0)
 			(effects
 				(font
@@ -1064,25 +1074,23 @@
 			)
 		)
 		(pin "1"
-			(uuid "8bbe6c41-3315-4061-97ff-0cbb8343b612")
+			(uuid "a32c7b22-2edb-4653-a506-63b06efcd559")
 		)
 		(pin "2"
-			(uuid "d4fe83fb-8b9e-4fa9-b5b5-8d2eb50f914c")
+			(uuid "b1369b1b-3811-4ecf-91d3-ef7ebf4dc9b1")
 		)
 		(instances
-			(project "alphax_8ch"
-				(path "/63d2dd9f-d5ff-4811-a88d-0ba932475460"
-					(reference "R30")
+			(project "stabildaytona"
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/48c489a8-99d9-428c-87a8-b1eeb5836df2"
+					(reference "R6")
 					(unit 1)
 				)
-				(path "/63d2dd9f-d5ff-4811-a88d-0ba932475460/9f286606-17ad-4292-b95a-d7d4de96430a"
-					(reference "R68")
-					(unit 1)
-				)
-			)
-			(project "uaefi"
 				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/c1e0fc38-44a5-4f4c-8a40-7ced112340c0"
-					(reference "R16")
+					(reference "R2")
+					(unit 1)
+				)
+				(path "/ac264c30-3e9a-4be2-b97a-9949b68bd497/eaaf5216-1f1d-4979-a2cc-7a4c348e8094"
+					(reference "R4")
 					(unit 1)
 				)
 			)
